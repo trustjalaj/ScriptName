@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Script",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "OTcwYjQ1NDIxMmQwYjE4YjNjYzhkY2ViMjFjMWYyNjhjOGFjNmFjZDBjMjM1ZDE0OGMxYTdlNmEyNzVkMDg2NTUyYjRkYTU5YmU5OWU4NTg4NDZjMWYzMzdmYmQ0YWI0ZDAyNzQ4Y2MyMTI2MzhkNjIwYjk1MGNlMmRiNWYxYzc=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "trustjalaj",
+  "repository-name": "ScriptName"
+}
